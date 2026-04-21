@@ -1,25 +1,3 @@
-/******************************************************************************************************************
- * NOM DU FICHIER  : sd_G7_gestion_etudiants_pointeurs_C
- 
- DESCRIPTION    :   Programme de gestion de notes utilisant exclusivement l'arithmétique
-                    de pointeurs. Optimisé pour la performance mémoire et la sécurité
-                    des saisies utilisateur.
-
- MEMBRES DE GROUPE7 : MENSAH Maurice (Chef)         - GM
-                      PITCHE S. Phanuel Jonas K.    - GM
-                      TCHOGLI Ayefouni Magloire     - GM
-                      PADANAM Essobiou Raoul        - GM
-                      DOSSOU Kodjovi Kevin          - GC
-                      PALA Kivema Christophe        - GC
-                      GAO Abdou Sabour Rodolphe     - GM
-                      NONDO Rewou Tracy             - GC
-                      BLAODEKISSI Essossolam        - GC
-
- DATE           : 21/04/2026
- VERSION        : 2.0 (Full Pointers Edition)
-********************************************************************************************************************
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
