@@ -1,35 +1,3 @@
-/******************************************************************************************************************
- * NOM DU FICHIER  : sd_G7_gestion_etudiants_C
- 
- DESCRIPTION    :   Ce programme permet de gérer les notes d'une promotion d'étudiants.
-                    Il calcule la moyenne brute (DST 45% / Examen 55%) puis applique 
-                    une bonification pour obtenir la moyenne définitive.
-                    Le programme utilise une structure pour les identifiants et 
-                    l'arithmétique de pointeurs pour le parcours des données.
-
-OBJECTIF        :   Mettre en pratique les STRUCTURES complexes, l'allocation dynamique
-                    de tableaux de structures et la manipulation par pointeurs.
-
-ENTREES         :   - Nombre d'étudiants (taille du tableau)
-                    - Informations (Numéro, Nom, Notes DST et Examen)
-
-SORTIES         :   - Affichage des noms et des moyennes définitives après bonus.
-
- MEMBRES DE GROUPE7 : MENSAH Maurice (Chef)         - GM
-                      PITCHE S. Phanuel Jonas K.    - GM
-                      TCHOGLI Ayefouni Magloire     - GM
-                      PADANAM Essobiou Raoul        - GM
-                      DOSSOU Kodjovi Kevin          - GC
-                      PALA Kivema Christophe        - GC
-                      GAO Abdou Sabour Rodolphe     - GM
-                      NONDO Rewou Tracy             - GC
-                      BLAODEKISSI Essossolam        - GC
-
- DATE           : 21/04/2026
- VERSION        : Final - Gestion Étudiants
-********************************************************************************************************************
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
